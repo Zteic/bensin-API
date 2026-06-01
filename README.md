@@ -1,8 +1,8 @@
-# Bensin-API (Static Generator)
+# Bensin-API (Bukan api 🔥)
 
 [![Sync Pertamina Prices](https://github.com/nasgunawann/bensin-api/actions/workflows/sync.yml/badge.svg)](https://github.com/nasgunawann/bensin-api/actions/workflows/sync.yml)
 
-Repository ini menyajikan API publik harga bahan bakar Pertamina di seluruh Indonesia yang bersih, terstandar, ringan, dan gratis. Data diperbarui otomatis setiap jam langsung dari hulu dan disajikan sebagai berkas JSON statis yang dihosting di GitHub Pages.
+Repository ini menyajikan API publik harga bahan bakar BBM dari web MyPertamina. Data diperbarui otomatis setiap jam langsung dari upstream sebagai file JSON statis yang rapi.
 
 ---
 
@@ -15,7 +15,7 @@ https://nasgunawann.github.io/bensin-api
 
 ### Contoh Penggunaan Instan (JavaScript)
 
-Berikut adalah contoh cara mengambil data harga bahan bakar Pertamina untuk wilayah **DKI Jakarta** (`dki-jakarta`):
+Contoh cara ambil data harga bahan bakar Pertamina untuk wilayah **DKI Jakarta** (`dki-jakarta`):
 
 ```javascript
 const baseUrl = 'https://nasgunawann.github.io/bensin-api';
@@ -47,16 +47,16 @@ fetch(`${baseUrl}/v1/provinsi/${provinceSlug}.json`)
 
 ---
 
-## Detail Struktur Kontrak: Upstream vs Ternormalisasi
+## Struktur Data Upstream vs Ternormalisasi
 
-API resmi dari MyPertamina `https://api.web.mypertamina.id/price` memiliki banyak inkonsistensi data. Berikut adalah perbedaan data dari upstream vs data dari Bensin-API:
+API resmi dari MyPertamina `https://api.web.mypertamina.id/price` punya inkonsistensi data:
 
 ### 1. Data Regional per Provinsi (`/v1/provinsi/{slug}.json`)
 
 *   **Contoh URL:** `https://nasgunawann.github.io/bensin-api/v1/provinsi/aceh.json`
 
 #### Before (Respon Mentah Upstream Pertamina)
-Payload dari Pertamina berukuran besar karena menulis stempel waktu yang sama berulang kali di setiap baris, tidak konsisten dalam tipe harga, serta nama produk yang acak-acakan:
+Payload dari Pertamina berukuran besar karena menulis timestamp sama berulang kali di setiap baris, tidak konsisten dalam tipe harga, serta nama produk yang acak-acakan:
 ```json
 {
   "province": "Prov. Aceh",
