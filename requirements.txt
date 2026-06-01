@@ -1,0 +1,6 @@
+# Optional dependencies for extended features
+# httpx for fetching upstream when running in CI
+# pydantic for schema validation
+httpx>=0.24.0
+pydantic>=2.0
+pytest>=7.0
