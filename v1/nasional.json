@@ -1,13 +1,13 @@
 {
   "version": "v1",
-  "synced_at": "2026-06-09T12:10:05.829634Z",
-  "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
+  "synced_at": "2026-06-09T16:08:21.298730Z",
+  "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
   "provinces": [
     {
       "province": "Prov. Aceh",
       "province_slug": "aceh",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.851166Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.364747Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -21,7 +21,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -31,7 +31,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -59,8 +59,8 @@
     {
       "province": "Free Trade Zone (FTZ) Sabang",
       "province_slug": "free-trade-zone-ftz-sabang",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.851642Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.365499Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -74,7 +74,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 11550,
+          "price_rupiah": 15250,
           "availability": "available"
         },
         {
@@ -84,7 +84,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 11450,
+          "price_rupiah": 15150,
           "availability": "available"
         },
         {
@@ -112,8 +112,8 @@
     {
       "province": "Prov. Sumatera Utara",
       "province_slug": "sumatera-utara",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.851980Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.365869Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -127,7 +127,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -165,8 +165,8 @@
     {
       "province": "Prov. Sumatera Barat",
       "province_slug": "sumatera-barat",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.852273Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.366196Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -180,7 +180,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
@@ -190,7 +190,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12800,
+          "price_rupiah": 16900,
           "availability": "available"
         },
         {
@@ -218,8 +218,8 @@
     {
       "province": "Prov. Riau",
       "province_slug": "riau",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.852574Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.366491Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -233,7 +233,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
@@ -243,7 +243,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12800,
+          "price_rupiah": 16900,
           "availability": "available"
         },
         {
@@ -271,8 +271,8 @@
     {
       "province": "Prov. Kepulauan Riau",
       "province_slug": "kepulauan-riau",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.852883Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.366811Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -286,7 +286,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
@@ -296,7 +296,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12800,
+          "price_rupiah": 16900,
           "availability": "available"
         },
         {
@@ -324,8 +324,8 @@
     {
       "province": "Free Trade Zone (FTZ) Batam",
       "province_slug": "free-trade-zone-ftz-batam",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.853198Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.367104Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -339,7 +339,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 11750,
+          "price_rupiah": 15500,
           "availability": "available"
         },
         {
@@ -349,7 +349,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 11650,
+          "price_rupiah": 15400,
           "availability": "available"
         },
         {
@@ -377,8 +377,8 @@
     {
       "province": "Prov. Jambi",
       "province_slug": "jambi",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.853477Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.367369Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -392,7 +392,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -402,7 +402,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -430,8 +430,8 @@
     {
       "province": "Prov. Bengkulu",
       "province_slug": "bengkulu",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.853760Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.367634Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -445,7 +445,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -455,7 +455,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -483,8 +483,8 @@
     {
       "province": "Prov. Sumatera Selatan",
       "province_slug": "sumatera-selatan",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.854062Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.367883Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -498,7 +498,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -508,7 +508,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -536,8 +536,8 @@
     {
       "province": "Prov. Bangka-Belitung",
       "province_slug": "bangka-belitung",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.854352Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.368131Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -551,7 +551,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -561,7 +561,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -589,8 +589,8 @@
     {
       "province": "Prov. Lampung",
       "province_slug": "lampung",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.854625Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.368368Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -604,7 +604,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -614,7 +614,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -642,8 +642,8 @@
     {
       "province": "Prov. DKI Jakarta",
       "province_slug": "dki-jakarta",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.854932Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.368644Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -657,17 +657,17 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
           "product": "PERTAMAX GREEN 95",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -695,8 +695,8 @@
     {
       "province": "Prov. Banten",
       "province_slug": "banten",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.855222Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.368938Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -710,17 +710,17 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
           "product": "PERTAMAX GREEN 95",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -748,8 +748,8 @@
     {
       "province": "Prov. Jawa Barat",
       "province_slug": "jawa-barat",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.855505Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.369192Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -763,17 +763,17 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
           "product": "PERTAMAX GREEN 95",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -801,8 +801,8 @@
     {
       "province": "Prov. Jawa Tengah",
       "province_slug": "jawa-tengah",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.855786Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.369429Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -816,17 +816,17 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
           "product": "PERTAMAX GREEN 95",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -854,8 +854,8 @@
     {
       "province": "Prov. DI Yogyakarta",
       "province_slug": "di-yogyakarta",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.856086Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.369696Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -869,17 +869,17 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
           "product": "PERTAMAX GREEN 95",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -907,8 +907,8 @@
     {
       "province": "Prov. Jawa Timur",
       "province_slug": "jawa-timur",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.856369Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.369936Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -922,17 +922,17 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
           "product": "PERTAMAX GREEN 95",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -960,8 +960,8 @@
     {
       "province": "Prov. Bali",
       "province_slug": "bali",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.856644Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.370163Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -975,7 +975,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
@@ -985,7 +985,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -1013,8 +1013,8 @@
     {
       "province": "Prov. Nusa Tenggara Barat",
       "province_slug": "nusa-tenggara-barat",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.856948Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.370407Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1028,7 +1028,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
@@ -1038,7 +1038,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -1066,8 +1066,8 @@
     {
       "province": "Prov. Nusa Tenggara Timur",
       "province_slug": "nusa-tenggara-timur",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.857232Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.370662Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1081,7 +1081,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12300,
+          "price_rupiah": 16250,
           "availability": "available"
         },
         {
@@ -1091,7 +1091,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12200,
+          "price_rupiah": 16150,
           "availability": "available"
         },
         {
@@ -1119,8 +1119,8 @@
     {
       "province": "Prov. Kalimantan Barat",
       "province_slug": "kalimantan-barat",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.857552Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.370904Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1134,7 +1134,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1144,7 +1144,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1172,8 +1172,8 @@
     {
       "province": "Prov. Kalimantan Tengah",
       "province_slug": "kalimantan-tengah",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.857854Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.371142Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1187,7 +1187,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1197,7 +1197,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1225,8 +1225,8 @@
     {
       "province": "Prov. Kalimantan Selatan",
       "province_slug": "kalimantan-selatan",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.858114Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.371377Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1240,7 +1240,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
@@ -1250,7 +1250,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12800,
+          "price_rupiah": 16900,
           "availability": "available"
         },
         {
@@ -1278,8 +1278,8 @@
     {
       "province": "Prov. Kalimantan Timur",
       "province_slug": "kalimantan-timur",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.858399Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.371634Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1293,7 +1293,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1303,7 +1303,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1331,8 +1331,8 @@
     {
       "province": "Prov. Kalimantan Utara",
       "province_slug": "kalimantan-utara",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.858685Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.371878Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1346,7 +1346,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12900,
+          "price_rupiah": 17000,
           "availability": "available"
         },
         {
@@ -1356,7 +1356,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12800,
+          "price_rupiah": 16900,
           "availability": "available"
         },
         {
@@ -1384,8 +1384,8 @@
     {
       "province": "Prov. Sulawesi Utara",
       "province_slug": "sulawesi-utara",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.858983Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.372110Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1399,7 +1399,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1409,7 +1409,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1437,8 +1437,8 @@
     {
       "province": "Prov. Gorontalo",
       "province_slug": "gorontalo",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.859279Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.372344Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1452,7 +1452,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1462,7 +1462,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1490,8 +1490,8 @@
     {
       "province": "Prov. Sulawesi Tengah",
       "province_slug": "sulawesi-tengah",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.859579Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.372602Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1505,7 +1505,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1515,7 +1515,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1543,8 +1543,8 @@
     {
       "province": "Prov. Sulawesi Tenggara",
       "province_slug": "sulawesi-tenggara",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.859914Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.372844Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1558,7 +1558,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1568,7 +1568,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1596,8 +1596,8 @@
     {
       "province": "Prov. Sulawesi Selatan",
       "province_slug": "sulawesi-selatan",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.860178Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.373082Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1611,7 +1611,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1621,7 +1621,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1649,8 +1649,8 @@
     {
       "province": "Prov. Sulawesi Barat",
       "province_slug": "sulawesi-barat",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.860467Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.373315Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1664,7 +1664,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1674,7 +1674,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1702,8 +1702,8 @@
     {
       "province": "Prov. Maluku",
       "province_slug": "maluku",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.860792Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.373550Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1717,7 +1717,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1727,7 +1727,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1755,8 +1755,8 @@
     {
       "province": "Prov. Maluku Utara",
       "province_slug": "maluku-utara",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.861102Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.373817Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1770,7 +1770,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1780,7 +1780,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1808,8 +1808,8 @@
     {
       "province": "Prov. Papua",
       "province_slug": "papua",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.861360Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.374051Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1823,7 +1823,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1833,7 +1833,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1861,8 +1861,8 @@
     {
       "province": "Prov. Papua Barat",
       "province_slug": "papua-barat",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.861666Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.374289Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1876,7 +1876,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1886,7 +1886,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1914,8 +1914,8 @@
     {
       "province": "Prov. Papua Selatan",
       "province_slug": "papua-selatan",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.861945Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.374529Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1929,7 +1929,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1939,7 +1939,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -1967,8 +1967,8 @@
     {
       "province": "Prov. Papua Pegunungan",
       "province_slug": "papua-pegunungan",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.862221Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.374784Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -1982,7 +1982,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -1992,7 +1992,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -2020,8 +2020,8 @@
     {
       "province": "Prov. Papua Tengah",
       "province_slug": "papua-tengah",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.862664Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.375193Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -2035,7 +2035,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -2045,7 +2045,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
@@ -2073,8 +2073,8 @@
     {
       "province": "Prov. Papua Barat Daya",
       "province_slug": "papua-barat-daya",
-      "pertamina_updated_at": "2026-06-01T15:59:37.000Z",
-      "synced_at": "2026-06-09T12:10:05.862961Z",
+      "pertamina_updated_at": "2026-06-10T10:59:37.000Z",
+      "synced_at": "2026-06-09T16:08:21.375421Z",
       "products": [
         {
           "product": "DEXLITE",
@@ -2088,7 +2088,7 @@
         },
         {
           "product": "PERTAMAX",
-          "price_rupiah": 12600,
+          "price_rupiah": 16650,
           "availability": "available"
         },
         {
@@ -2098,7 +2098,7 @@
         },
         {
           "product": "PERTAMAX PERTASHOP",
-          "price_rupiah": 12500,
+          "price_rupiah": 16550,
           "availability": "available"
         },
         {
